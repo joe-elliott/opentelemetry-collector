@@ -808,6 +808,8 @@ github.com/openzipkin/zipkin-go v0.1.6/go.mod h1:QgAqvLzwWbR/WpD4A3cGpPtJrZXNIiJ
 github.com/openzipkin/zipkin-go v0.2.1/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnhQw8ySjnjRyN4=
 github.com/openzipkin/zipkin-go v0.2.2 h1:nY8Hti+WKaP0cRsSeQ026wU03QsM762XBeCXBb9NAWI=
 github.com/openzipkin/zipkin-go v0.2.2/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnhQw8ySjnjRyN4=
+github.com/openzipkin/zipkin-go v0.2.3 h1:Ygv80onOuzQTaRs7aZGwPut9nkEXoNtluU1yuIGI67c=
+github.com/openzipkin/zipkin-go v0.2.3/go.mod h1:uEP5ksAmClUBnhP2JY/Km6gfQ5JCNS1WLrVYLnvDC0M=
 github.com/orijtech/prometheus-go-metrics-exporter v0.0.5 h1:76JFgRIgNDA3pW1fUhmqinU2u5ndHv1gvapDfGG+7/c=
 github.com/orijtech/prometheus-go-metrics-exporter v0.0.5/go.mod h1:BiTx/ugZex8LheBk3j53tktWaRdFjV5FCfT2o0P7msE=
 github.com/ory/go-acc v0.2.5 h1:31irXHzG2vnKQSE4weJm7AdfrnpaVjVCq3nD7viXCJE=
