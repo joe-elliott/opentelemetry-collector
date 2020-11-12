@@ -55,15 +55,15 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.6.1
 	github.com/tcnksm/ghr v0.13.0
-	github.com/tinylib/msgp v1.1.2
+	github.com/tinylib/msgp v1.1.4
 	github.com/uber/jaeger-lib v2.4.0+incompatible
 	go.opencensus.io v0.22.5
 	go.uber.org/atomic v1.7.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200821140526-fda516888d29
+	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
 	golang.org/x/text v0.3.3
-	golang.org/x/tools v0.0.0-20200822203824-307de81be3f4
+	golang.org/x/tools v0.0.0-20201022035929-9cf592e881e9
 	google.golang.org/genproto v0.0.0-20200815001618-f69a88009b70
 	google.golang.org/grpc v1.33.1
 	google.golang.org/grpc/examples v0.0.0-20200728065043-dfc0c05b2da9 // indirect
