@@ -41,7 +41,7 @@ require (
 	github.com/pavius/impi v0.0.3
 	github.com/pquerna/cachecontrol v0.0.0-20200819021114-67c6ae64274f // indirect
 	github.com/prometheus/client_golang v1.8.0
-	github.com/prometheus/common v0.14.0
+	github.com/prometheus/common v0.15.0
 	github.com/prometheus/prometheus v1.8.2-0.20201105135750-00f16d1ac3a4
 	github.com/rs/cors v1.7.0
 	github.com/securego/gosec/v2 v2.5.0
