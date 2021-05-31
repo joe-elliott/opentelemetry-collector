@@ -11,6 +11,6 @@ require (
 	github.com/ory/go-acc v0.2.6
 	github.com/pavius/impi v0.0.3
 	github.com/tcnksm/ghr v0.13.0
-	golang.org/x/tools v0.0.0-20210105210202-9ed45478a130
-	honnef.co/go/tools v0.0.1-2020.1.6
+	golang.org/x/tools v0.1.0
+	honnef.co/go/tools v0.3.0-0.dev
 )
